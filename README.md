@@ -1,2 +1,9 @@
 # blog
-LiuDrew's blog
+= LiuDrew's blog
+
+== Directory Structure
+
+---
+|--coding
+
+---
